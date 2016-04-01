@@ -77,6 +77,8 @@ public class MainActivity extends ActionBarActivity {
     public  Double convert_F(double C_val) {
         double F = (C_val *1.8)+ 32;
 
+
+
         return F;
     }
 
