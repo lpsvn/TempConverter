@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TempConverter</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint"> Input your value</string>
+    <string name="Cbtn_text">Convert to C</string>
+    <string name="Fbtn_text">Convert to F</string>
+</resources>
